@@ -1,26 +1,18 @@
 # hi, i'm Jerome :wave: I'm passionate about curating AI solutions that actually help us in our daily lives.
 
----
-
 ## AI & data analytics
 [![My Skills](https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow,aws,plotly&theme=dark)](https://skillicons.dev)
 
 <img height="45" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 <img height="45" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
 
----
-
 ## fullstack + devtools
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,html,css,bootstrap,mysql,git,github,vscode,telegram&theme=dark)](https://skillicons.dev)
-
----
 
 ## strong in Mathematics
 pursuing the Diploma Plus Certificate in Advanced Mathenatics enables deeper understanding of the algorithms I employ. this is sparked by my passion in XAI (Explainable AI) and AI research.
 
 [![Certificate in Advanced Mathematics](https://img.shields.io/badge/Certificate_in_Advanced_Mathematics-Singapore_Polytechnic-7B68C8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.sp.edu.sg/courses/poly-wide-curriculum/electives-minors-and-certificates/certificates)
-
----
 
 ## github stats
 
@@ -43,8 +35,8 @@ pursuing the Diploma Plus Certificate in Advanced Mathenatics enables deeper und
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://github.com/lokejer" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/>
+  <a href="mailto:lokejer@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Email"/>
   </a>
 </p>
 

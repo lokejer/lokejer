@@ -2,33 +2,30 @@
 
 ---
 
-## Languages & Tools
+## AI & data analytics
+[![My Skills](https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow,aws,plotly&theme=dark)](https://skillicons.dev)
 
-### AI / Data Science
-[![My Skills](https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow,aws&theme=dark)](https://skillicons.dev)
+<img height="45" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img height="45" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
 
-### Data Visualisation
-[![My Skills](https://skillicons.dev/icons?i=plotly&theme=dark)](https://skillicons.dev)
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="45" height="45" alt="Power BI"/>
-<img src="https://cdn.simpleicons.org/tableau/E97627" width="45" height="45" alt="Tableau"/>
+---
 
-### Web & Backend
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,html,css,bootstrap&theme=dark)](https://skillicons.dev)
+## fullstack + devtools
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,html,css,bootstrap,mysql,git,github,vscode,telegram&theme=dark)](https://skillicons.dev)
 
-### Databases & Dev Tools
-[![My Skills](https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark)](https://skillicons.dev)
+---
 
-### Strong in Mathematics
+### strong in Mathematics
 Pursuing the Diploma Plus Certificate in Advanced Math helps me gain a deeper understanding of the algorithms I employ.
 
 [![Certificate in Advanced Mathematics](https://img.shields.io/badge/Certificate_in_Advanced_Mathematics-Singapore_Polytechnic-7B68C8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.sp.edu.sg/courses/poly-wide-curriculum/electives-minors-and-certificates/certificates)
 
 ---
 
-## GitHub Stats
+## github stats
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=lokejer&theme=dracula&no-frame=true&column=4&margin-w=10" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lokejer&bg_color=0d0d1a&color=9b7fd4&line=7B68C8&point=c9b8e8&hide_border=true" width="100%"/>
 </p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokejer&layout=compact&hide_border=true&bg_color=0d0d1a&title_color=9b7fd4&text_color=c9b8e8&icon_color=9b7fd4" width="48%" />
@@ -36,7 +33,7 @@ Pursuing the Diploma Plus Certificate in Advanced Math helps me gain a deeper un
 
 ---
 
-## Let's Connect
+## let's connect
 
 <p align="left">
   <a href="https://linkedin.com/in/jeromeloke" target="_blank">
@@ -50,4 +47,4 @@ Pursuing the Diploma Plus Certificate in Advanced Math helps me gain a deeper un
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7B5EA7&height=80&section=footer" width="100%"/>

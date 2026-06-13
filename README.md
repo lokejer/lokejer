@@ -1,5 +1,9 @@
 # hi, i'm Jerome :wave: I'm passionate about curating AI solutions that actually help us in our daily lives.
 
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=9B7FD4&width=500&lines=you+can't+spell+AI+without+I" alt="Typing SVG"/>
+</p>
+
 ## AI & data analytics
 [![My Skills](https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow,aws,plotly&theme=dark)](https://skillicons.dev)
 
@@ -16,9 +20,6 @@ pursuing the Diploma Plus Certificate in Advanced Mathenatics enables deeper und
 
 ## github stats
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=9B7FD4&width=500&lines=you+can't+spell+AI+without+I" alt="Typing SVG"/>
-</p>
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lokejer&bg_color=0d0d1a&color=9b7fd4&line=7B68C8&point=c9b8e8&hide_border=true" width="100%"/>
 </p>
@@ -39,7 +40,5 @@ pursuing the Diploma Plus Certificate in Advanced Mathenatics enables deeper und
     <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Email"/>
   </a>
 </p>
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7B5EA7&height=80&section=footer" width="100%"/>

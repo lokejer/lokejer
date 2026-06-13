@@ -14,24 +14,24 @@ I'm passionate about curating AI solutions that anyone can understand, with part
 
 
 ## Skills & Technologies
-→ **AI & data analytics:**  
+<h3 align="left">→ AI & data analytics:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow,aws,plotly&theme=dark)](https://skillicons.dev)
 
 <img height="45" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 <img height="45" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
 
-→ **fullstack + devtools:**  
+<h3 align="left">→ fullstack & devtools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,html,css,bootstrap,mysql,git,github,vscode,telegram&theme=dark)](https://skillicons.dev)
 
-→ **strong in Mathematics:**  
+<h3 align="left">→ strong in Mathematics:</h3>
 
-pursuing the Diploma Plus Certificate in Advanced Mathenatics enables deeper understanding of the algorithms I employ. this was sparked by my passion in XAI (Explainable AI) and AI research.
+Sparked by my passion in XAI and AI research, pursuing the Diploma Plus Certificate in Advanced Mathematics enables deeper analytical thinking and understanding of the algorithms I employ.
 
 [![Certificate in Advanced Mathematics](https://img.shields.io/badge/Certificate_in_Advanced_Mathematics-Singapore_Polytechnic-7B68C8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.sp.edu.sg/courses/poly-wide-curriculum/electives-minors-and-certificates/certificates)
 
-→ **let's connect!**  
+<h2 align="left">→ let's connect!</h2>
 
 <p align="left">
   <a href="https://linkedin.com/in/jeromeloke" target="_blank">

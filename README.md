@@ -22,6 +22,7 @@ I'm passionate about curating AI solutions that anyone can understand, with part
 <img height="45" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
 
 → **fullstack + devtools:**  
+
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,html,css,bootstrap,mysql,git,github,vscode,telegram&theme=dark)](https://skillicons.dev)
 
 → **strong in Mathematics:**  

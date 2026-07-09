@@ -1,7 +1,7 @@
-# Hi! I'm Jerome
+<h1 align="center">Hi! I'm Jerome</h1>
 
 <p align="center">
-  I'm passionate about curating AI solutions that anyone can understand, with particular interest in Explainable AI (XAI) research.
+  I'm passionate about building AI solutions that are understandable, accessible, and useful, with a particular interest in Explainable AI (XAI) research.
 </p>
 
 ## Skills & Technologies

@@ -1,9 +1,4 @@
-# hi, i'm Jerome :wave:
-
-I'm passionate about curating AI solutions that anyone can understand, with particular interest in Explainable AI (XAI) research:
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=9B7FD4&width=500&lines=you+can't+spell+AI+without+I." alt="Typing SVG"/>
-</p>
+I'm passionate about curating AI solutions that anyone can understand, with particular interest in Explainable AI (XAI) research.
 
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lokejer&bg_color=0d0d1a&color=9b7fd4&line=7B68C8&point=c9b8e8&hide_border=true" width="100%"/>

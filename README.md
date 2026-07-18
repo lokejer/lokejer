@@ -7,7 +7,7 @@
 ## Skills & Technologies
 <h3 align="left">→ AI & data analytics:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow,aws,plotly&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow,plotly&theme=dark)](https://skillicons.dev)
 
 <h3 align="left">→ fullstack & devtools:</h3>
 

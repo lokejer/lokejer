@@ -1,7 +1,8 @@
 <h3 align="center">Hi! I'm Jerome</h3>
 
 <p align="center">
-  I'm passionate about building AI solutions that are understandable, accessible, and useful, with a particular interest in Explainable AI (XAI) research.
+  I'm passionate about building AI solutions that are understandable, accessible, and useful, with interests in Computer Vision, NLP, and XAI (Explainable AI).
+  Currently trying to increase my learning rate by 10^1 α α α
 </p>
 
 <br>

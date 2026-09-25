@@ -32,8 +32,4 @@
 
 <br>
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lokejer&bg_color=0d0d1a&color=9b7fd4&line=7B68C8&point=c9b8e8&hide_border=true" width="100%"/>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7B5EA7&height=80&section=footer" width="100%"/>

@@ -6,11 +6,5 @@
 
 <br>
 
-### My Tech Stack
-<h4 align="left">→ AI & data analytics:</h4>
-
 [![My Skills](https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow,plotly&theme=dark)](https://skillicons.dev)
-
-<h4 align="left">→ fullstack & devtools:</h4>
-
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,html,css,bootstrap,mysql,git,github,vscode,telegram&theme=dark)](https://skillicons.dev)

@@ -1,11 +1,12 @@
+<h3 align="center">Jerome Loke</h3>
 <p align="center">
-  I'm passionate about building AI solutions that are understandable, accessible, and useful, with interests in Computer Vision, NLP, and XAI (Explainable AI).
+  I'm passionate about building AI solutions that are understandable, accessible, and useful, with interests in Computer Vision, NLP, and XAI (Explainable AI).  
   Currently trying to increase my learning rate by 10^1 α α α
 </p>
 
 <br>
 
-### Skills & Technologies
+### My Tech Stack
 <h4 align="left">→ AI & data analytics:</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow,plotly&theme=dark)](https://skillicons.dev)

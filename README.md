@@ -1,6 +1,7 @@
 <h3 align="center">Jerome Loke</h3>
 <p align="center">
-  I'm passionate about building AI solutions that are able to impact the world around me. Interests: Computer Vision, NLP, XAI    
+  I'm passionate about building AI solutions that are able to impact the world around me.  
+  Interests: Computer Vision, NLP, XAI  
   Currently trying to increase my learning rate by 10^1 α α α
 </p>
 
